@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Backend Projects
 - 🌱 I’m learning Advanced Django & AI
 - 💬 Ask me about Python, Django, REST API
-- 📫 Reach me: your_email@gmail.com
+- 📫 Reach me: abdusalomovazimbek23@gmail.com
 
 ---
 
